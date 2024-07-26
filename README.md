@@ -6,7 +6,7 @@
 ## About Me
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on any software projects that is focused on helping other new learners in software
+- 👯 I’m looking to collaborate on any software projects that are focused on helping other new learners starting to break into tech/software
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything about tech, I am more than happy to chat 
 - 📫 How to reach me: [dharzannn@gmail.com]
