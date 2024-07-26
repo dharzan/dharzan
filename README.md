@@ -13,9 +13,11 @@
 <!-- - ⚡ Fun fact: ... -->
 
 ## Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoWidth=40)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoWidth=40)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoWidth=40)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react&logoWidth=40)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoWidth=40)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoWidth=40)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoWidth=40)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoWidth=40)
