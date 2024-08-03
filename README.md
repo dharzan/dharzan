@@ -26,7 +26,7 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&logoWidth=40)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoWidth=40)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoWidth=40)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoWidth=40)
+![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services%20(AWS)-black?style=flat&logo=amazon-aws&logoWidth=40)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoWidth=40)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat&logo=amazon-dynamodb&logoWidth=40)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=google-cloud&logoWidth=40)
