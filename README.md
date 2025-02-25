@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any software projects that are focused on helping other new learners starting to break into tech/software
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything about tech, I am more than happy to chat 
-- 📫 How to reach me: [dharzannn@gmail.com]
+- 📫 How to reach me: [dgurupa@rockets.utoledo.edu / dharzannn@gmail.com]
 <!-- - ⚡ Fun fact: ... -->
 
 
