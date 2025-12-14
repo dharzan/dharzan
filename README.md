@@ -65,7 +65,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoWidth=40)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-black?style=flat&logo=docker&logoWidth=40)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx&logoWidth=40)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat&logo=amazon-aws&logoWidth=40)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LocalStack](https://img.shields.io/badge/-LocalStack-black?style=flat)
 
 ---
