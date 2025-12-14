@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Latest Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoWidth=40)
